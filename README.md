@@ -6,6 +6,7 @@ Founder & CEO of Scoversity
 
 ## Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitmevada@outlook.com)
+
 [![Blog](https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white)](https://ronitmevadaofficial.blogspot.com/)  
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/ronit_mevada)  
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/ronit.mevada/)  
