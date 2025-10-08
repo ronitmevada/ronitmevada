@@ -40,7 +40,7 @@ Founder & CEO of Scoversity
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/N8n_logo.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/n8n-io.svg" width="50" height="50"/>
 
 </p>
 
