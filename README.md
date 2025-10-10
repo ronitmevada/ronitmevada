@@ -40,7 +40,12 @@ Founder & CEO of Scoversity
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="50" height="50"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/10249/10249053.png" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="50" height="50"/>
+</p>
 
 
 </p>
