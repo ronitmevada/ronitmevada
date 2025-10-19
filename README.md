@@ -50,8 +50,7 @@ Founder & CEO of Scoversity
 </p>
 
 # GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ronitmevada&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Ronit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronitmevada&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_border=false)<br/>
 ![](https://streak-stats.demolab.com?user=ronitmevada&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitmevada&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
