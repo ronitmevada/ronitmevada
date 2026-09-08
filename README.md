@@ -1,6 +1,6 @@
 ## Hey👋, I'm Ronit Mevada
 
-Founder & CEO of Sifsci
+
 
 ## Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitmevada@outlook.com)
